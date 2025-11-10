@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "Calgary, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am a teaching assistant for Logic I. (Propositional Logic, First-Order Logic)
 
 Heading 1
 ======
