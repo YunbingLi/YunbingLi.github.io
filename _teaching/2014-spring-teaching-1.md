@@ -9,12 +9,3 @@ location: "Calgary, Canada"
 ---
 
 I am a teaching assistant for Logic I. (Propositional Logic, First-Order Logic)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
